@@ -1,0 +1,12 @@
+{
+  "spec": 1,
+  "name": "MTF Magical Marilyn",
+  "previewText": "Playful handwritten font with heart-shaped dots on i and j",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/swetheblowy/marilyn-font/main/MTF%20Magical%20Marilyn.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/swetheblowy/marilyn-font/main/MTF%20Magical%20Marilyn.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/swetheblowy/marilyn-font/main/MTF%20Magical%20Marilyn.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/swetheblowy/marilyn-font/main/MTF%20Magical%20Marilyn.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/swetheblowy/marilyn-font/main/MTF%20Magical%20Marilyn.ttf"
+  }
+}
